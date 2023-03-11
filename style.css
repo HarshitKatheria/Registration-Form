@@ -1,5 +1,7 @@
 body{
     width: 100%;
+    background-image: url('sakura.jpg');
+    background-size: cover;
     height: 100vh;
     margin: 0;
     background-color: #1b1b32;
